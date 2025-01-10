@@ -23,11 +23,10 @@ BANKING SYSTEM
                 viii) update profile
                 ix) Logout
         4. EXIT
-
-
         DataBase:
             DB NAME : banking_system
             Tables:
                     1) users
                     2) login
                     3) transaction
+
